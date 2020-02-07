@@ -1,6 +1,6 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: Welcome to carmin blog
+date: "2020-02-01T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "perfecting-the-art-of-perfection"
@@ -12,7 +12,11 @@ description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem,
 socialImage: "/media/image-2.jpg"
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+
+##try it!!!!!!
+It's really hard to start something new. Such as Gatsby.....
+But I'll never give up. 
+
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
 
