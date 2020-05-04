@@ -5,7 +5,7 @@ socialImage: "/media/image-2.jpg"
 ---
 Hi. I'm Eunji Carmin Hwang.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+![Profile ](https://images.velog.io/images/carminchameleon/post/e5efdec3-6786-4fda-96ff-43dbfb425d64/image.png)
 
 *Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
 
